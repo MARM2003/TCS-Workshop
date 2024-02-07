@@ -1,0 +1,87 @@
+<!-- Assignment 1: Basic Unordered List
+Create a simple webpage that includes an unordered list with at least 5 items. Add appropriate content to each list item. Ensure the list is structured correctly using HTML. -->
+
+
+<!-- Assignment 2: Ordered List with Nested Lists
+Build a webpage with an ordered list containing at least 3 items. Nest another unordered list inside one of the ordered list items with at least 3 sub-items. Include relevant content in each list item. Focus on HTML structure. -->
+
+
+<!-- Assignment 3: Custom Bullet Points
+Create a webpage with an unordered list where the default bullet points are replaced with custom characters or symbols. Use HTML entities or Unicode characters to represent the custom bullet points. -->
+
+
+<!-- Assignment 4: Nested Lists for Project Structure
+Imagine you are planning a simple project. Create a webpage that uses nested lists to represent the hierarchical structure of tasks or components in the project. Use at least two levels of nesting. -->
+
+
+<!-- Assignment 5: Basic Table Structure
+Create a webpage that includes a simple table with at least 3 rows and 3 columns. Populate the table cells with relevant content, such as numbers or names. Focus on using the basic HTML table tags. -->
+
+
+<!-- Assignment 6: Table with Column and Row Span
+Design a webpage with a table that includes at least 4 rows and 4 columns. Use both colspan and rowspan attributes to merge cells and create a more complex layout. Populate the table with data to showcase the merged cells' functionality. -->
+
+
+<!-- Assignment 7: Nested Tables
+Create a webpage with a main table containing at least 3 rows and 3 columns. Inside one of the cells, embed another table with 2 rows and 2 columns. Populate both tables with meaningful content to demonstrate the concept of nested tables. -->
+
+
+<!-- Assignment 8: Table with Header and Caption
+Build a webpage with a table that includes a header and a caption. The table should have at least 4 rows and 3 columns. Add a meaningful caption to describe the purpose of the table. Use the th element to create a header row. -->
+
+
+<!-- Assignment 9: Personal Information Form
+Create a webpage with a simple form that captures the user's personal information, including their name, email address, password, and any additional comments they may want to provide. -->
+
+
+<!-- Assignment 10: Gender and Interests Survey
+Build a form that acts as a survey, allowing users to select their gender using radio buttons and choose multiple hobbies or interests using checkboxes. -->
+
+
+<!-- Assignment 11: Country Selection Form
+Design a form that includes a dropdown menu for selecting the user's country. Combine this with other relevant form elements to gather additional information. -->
+
+
+<!-- Assignment 12: Personal Portfolio Page
+Create a personal portfolio webpage that includes the following elements:
+
+Use appropriate heading tags to structure the page.
+Include an image of yourself using the <img> tag.
+Add a navigation menu using anchor tags (<a>) to link to different sections of your portfolio.
+Embed an audio clip with controls to showcase a piece of your work. -->
+
+
+<!-- Assignment 13: Travel Blog
+Build a travel blog page with the following elements:
+
+Use heading tags to structure the content.
+Include an unordered list (<ul>) of your top travel destinations.
+Embed a video that highlights your favorite travel experience.
+Use anchor tags to link to external resources related to your travel destinations. -->
+
+
+<!-- Assignment 14: Product Catalog
+Create a product catalog page with the following features:
+
+Utilize heading tags to structure the content.
+Display a table (<table>) of different products with relevant details like name, price, and description.
+Include an anchor tag around the product names to link to a detailed product page.
+Embed images of the products using the <img> tag. -->
+
+
+<!-- Assignment 15: Music Playlist Page
+Design a webpage for a music playlist with the following components:
+
+Use heading tags to structure the content.
+Create an ordered or unordered list of your favorite songs.
+Embed audio elements for a few song previews with controls.
+Add anchor tags around the song titles, linking to more information about each song. -->
+
+
+<!-- Assignment 16: Event Registration Form
+Develop a webpage for an event registration form with the following elements:
+
+Utilize heading tags to organize the form sections.
+Include text inputs, checkboxes, and radio buttons for collecting participant information.
+Embed a table to organize and label form fields neatly.
+Use anchor tags to link to terms and conditions or additional event details. -->

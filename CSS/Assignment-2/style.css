@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    padding: 35px;
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+}
+main{
+    height: 1000px;
+    width: 500px;
+}
+img{
+    opacity: 0;
+    height: 500px;
+    width: 250px;
+}
+main:hover img{
+    opacity: 1;
+}

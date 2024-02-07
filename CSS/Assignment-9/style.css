@@ -1,0 +1,14 @@
+table,th,th,td{
+    border:2px solid black;
+    border-collapse: collapse;
+    background-color: aliceblue;
+}
+.tb{
+    margin: 0 auto;
+}
+td{
+        padding: 20px;
+}
+#log{
+    text-align: center;
+}

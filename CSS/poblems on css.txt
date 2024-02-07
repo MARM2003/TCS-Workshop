@@ -1,0 +1,69 @@
+Assignment 1: Absolute Positioning
+Task: Create a webpage with a header, a main content section, and a sidebar. Use absolute positioning to position the sidebar on the right side of the page.
+
+
+Assignment 2: Relative and Absolute Positioning
+Task: Create a webpage with a header, a main content section, and an image overlay that appears when hovering over the main content. Use relative and absolute positioning.
+
+
+Assignment 3: Flexbox Image Gallery
+Task: Create an image gallery with three images displayed horizontally using flexbox.
+
+
+Assignment 4: Grid Image Gallery
+Task: Create an image gallery with three images displayed in a grid layout using CSS Grid.
+
+
+Assignment 5: Personal Portfolio Page (structure already created in html assignment 12)
+Create a personal portfolio webpage that includes the following elements:
+
+Use appropriate heading tags to structure the page.
+Include an image of yourself using the <img> tag.
+Add a navigation menu using anchor tags (<a>) to link to different sections of your portfolio.
+Embed an audio clip with controls to showcase a piece of your work.
+
+CSS Requirement: Apply CSS styles to enhance the appearance of your portfolio page. Utilize CSS for layout, typography, colors, and any additional visual enhancements you'd like to include.
+
+
+Assignment 6: Travel Blog (structure already created in html assignment 13)
+Build a travel blog page with the following elements:
+
+Use heading tags to structure the content.
+Include an unordered list (<ul>) of your top travel destinations.
+Embed a video that highlights your favorite travel experience.
+Use anchor tags to link to external resources related to your travel destinations.
+
+CSS Requirement: Implement CSS to style your travel blog page. Consider using CSS to improve the layout, design, and overall aesthetic of your blog. Apply styles to headings, lists, video elements, and anchor tags to create a visually appealing travel blog.
+
+
+Assignment 7: Product Catalog (structure already created in html assignment 14)
+Create a product catalog page with the following features:
+
+Utilize heading tags to structure the content.
+Display a table (<table>) of different products with relevant details like name, price, and description.
+Include an anchor tag around the product names to link to a detailed product page.
+Embed images of the products using the <img> tag.
+
+CSS Requirement: Apply CSS to enhance the presentation of your product catalog. Use CSS to style the table, images, text, and links within your catalog. Consider applying styles to improve readability, alignment, and overall visual appeal.
+
+
+Assignment 8: Music Playlist Page (structure already created in html assignment 15)
+Design a webpage for a music playlist with the following components:
+
+Use heading tags to structure the content.
+Create an ordered or unordered list of your favorite songs.
+Embed audio elements for a few song previews with controls.
+Add anchor tags around the song titles, linking to more information about each song.
+
+CSS Requirement: Utilize CSS to style your music playlist page. Apply styles to headings, lists, audio elements, and anchor tags to enhance the visual presentation of your playlist. Consider using CSS to create an attractive layout, typography, and color scheme for your music page.
+
+
+Assignment 9: Event Registration Form (structure already created in html assignment 16)
+Develop a webpage for an event registration form with the following elements:
+
+Utilize heading tags to organize the form sections.
+Include text inputs, checkboxes, and radio buttons for collecting participant information.
+Embed a table to organize and label form fields neatly.
+Use anchor tags to link to terms and conditions or additional event details.
+
+CSS Requirement: Apply CSS styles to improve the appearance and usability of your event registration form. Utilize CSS to style form elements, layout, spacing, and any additional visual enhancements. Ensure that your form is user-friendly and visually appealing with the help of CSS.

@@ -1,0 +1,22 @@
+Strings
+-----------
+
+1. Write a function that calculates length of a string.
+
+2. write a function that concatenates two strings and returns a new string.
+
+3. Write a function that returns reverse of a string.
+
+4. write a function to count vowels in a string.
+
+5. Write a function to capitalize first letter and return a new string.
+
+6. write function to check if string is palilndrome or not.
+
+7. Write a function that returns occurrences of a character in a string.
+
+8. Write a function that removes duplicate characters from a string and return a new string.
+
+9. Write a function to check whether a substring is present in the string or not.
+
+10. Write a function that replaces a character with a new character and return updated string.

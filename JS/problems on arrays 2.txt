@@ -1,0 +1,95 @@
+Problem - 1
+----------------------------
+
+Problem Description
+You are given two arrays arr1 and arr2 as arguments. You have to implement the function sumTwoArrays that will return the total sum of all elements in both arrays.
+
+
+Hint 1: Use a new variable, which can be used to store and return the sum.
+
+Hint 2: Use loops to iterate through the arrays one by one.
+
+
+Sample Input
+
+[1, 2, 3], [4, 5, 6]
+
+
+Sample Output
+21
+
+
+Explanation
+1 + 2 + 3 + 4 + 5 + 6 is 21. Thus we return 21.
+
+
+
+
+
+
+Problem - 2
+-----------------------------
+
+Problem Description
+Given an array arr of numbers as an argument. You have to implement the function checkNonDecreasing such that if the given array is in nondecreasing order return true else return false.
+
+We define an array as non-decreasing if nums[i] <= nums[i + 1] holds for every i (0-based) such that (0 <= i <= n - 2).
+
+
+Hint 1: Use loops to iterate through all the elements.
+
+Hint 2: If first element is less than or equal to second element, second element is less than or equal to third element, and so on. This condition should hold true for all elements in the array.
+
+Hint 3: At any point, while iterating over the array, if you find that the condition of a non-decreasing array is not satisfied, you can return false.
+
+
+Sample Input 1
+
+1, 2, 3, 2
+
+
+Sample Output 1
+false
+
+
+Explanation
+Last number 2 is smaller than 3 (the second last number) and thus the array is not non-decreasing. Thus we return false.
+
+
+Sample Input 2
+1, 2, 3, 3
+
+
+Sample Output 2
+true
+
+
+Explanation
+The given array is non-decreasing and thus we return true.
+
+
+
+
+Problem - 3
+------------------------
+
+Problem Description
+You are given an array arr as an argument. You have to implement the function evenCubeSum that takes all the even numbers and finds the sum of their cubes.
+
+If a number is multiplied by itself three times, then the product is called the cube of that number. For example, 2 cube is 2 x 2 x 2 = 8.
+
+
+Hint: Iterate through the array using a loop and find all even numbers. For each even number found, calculate its cube and add it to the overall calculated sum.
+
+
+Sample Input
+
+1, 2, 3, 4
+
+
+Sample Output
+72
+
+
+Explanation
+2 and 4 are the even numbers in the array. 2 x 2 x 2 + 4 x 4 x 4 = 72. Both 2 and 4 are even numbers, therefore we return 72.
